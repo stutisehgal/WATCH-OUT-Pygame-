@@ -1,5 +1,5 @@
 # PYGAME-- WatchOut!  ⏮ ⏯ ⏭
-Blocks falling on your McQueen in a race against their increasing sizes with time as your score increases
+Blocks falling on your McQueen in a race against their increasing sizes with time as your score increases ⬆ 
 
 # Motivation
 Let the games begin! ▶
@@ -23,7 +23,7 @@ Presenting to you, WatchOut!
 
 🔇 No Sound 
 
-# Contribute
+# Contribute 👨‍👨‍👧‍👦
 Thanks for taking the time to contribute!
 
 The following is a set of guidelines for contributing to WatchOut. These are just guidelines, not rules, so use your best judgement and feel free to propose changes to this document in a pull request.
