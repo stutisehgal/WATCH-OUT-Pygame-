@@ -40,7 +40,8 @@ The expected behavior (or what is wrong).
 Screenshots for issues. 
 The operating system.
 
-## Pull Requests
+## Pull Requests 
+<img src="https://img.shields.io/github/forks/stutisehgal/WATCH-OUT-Pygame-">
 Pull Requests are always welcome.
 
 ## License 
