@@ -7,6 +7,7 @@ Let the games begin! ▶
 I first had the idea of making a game, one like the iconic snake game in olden devices. 
 
 Presenting to you, WatchOut!
+
 <img src="car_dodge.jfif">
 
 # Key Features
@@ -25,7 +26,7 @@ Presenting to you, WatchOut!
 # Contribute
 Thanks for taking the time to contribute!
 
-The following is a set of guidelines for contributing to Handwritten Digit Recognition. These are just guidelines, not rules, so use your best judgement and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to WatchOut. These are just guidelines, not rules, so use your best judgement and feel free to propose changes to this document in a pull request.
 
 If you have any questions, open an issue.
 
