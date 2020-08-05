@@ -48,4 +48,4 @@ Pull Requests are always welcome.
 <img src="https://img.shields.io/github/license/stutisehgal/Machine-Learning-Project">
 MIT © Stuti Sehgal 
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/stutisehgal/WATCH-OUT-Pygame-/blob/master/LICENSE.md) file for details
